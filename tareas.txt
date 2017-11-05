@@ -1,0 +1,5 @@
+tareas
+------
+1.- Crear archivo a trabajar y versionar
+2.- Agregar archivo al area de preparacion comando 'add' 
+3.- Una vez terminado el avance ejecutar comandoo 'commit' 
